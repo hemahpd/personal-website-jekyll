@@ -249,6 +249,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed (~> 0.12)
+  jekyll-paginate
+  jekyll-sitemap
   jekyll-theme-clean-blog
   rake
   tzinfo (~> 1.2)
