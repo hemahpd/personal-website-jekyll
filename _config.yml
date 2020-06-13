@@ -35,6 +35,7 @@ instagram_username: hemahpd
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+formspree_email: hemahpd07@gmail.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
