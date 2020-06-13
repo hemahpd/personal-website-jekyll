@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hema Priya Dharshini
-description: Computer Science & Engineering Student
+description: Computer Science and Engineering Student & Aspiring Programmer
 background: '/images/hema.jpg'
 ---
 
