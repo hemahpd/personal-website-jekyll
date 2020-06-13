@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Hema Priya Dharshini
 description: Computer Science & Engineering Student
 background: '/images/hema.jpg'
 ---
