@@ -5,14 +5,10 @@
 layout: page
 title: Just Around me!!
 description: Episodes and Escapades of my life
-background: '/images/hema.jpg'
+background: '/images/homepage.jpg'
 ---
 <div class="container">
     <div class="row">
-      
-
-        
-
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
 
